@@ -1,3 +1,5 @@
-.color {
-  color: maroon;
+.logo{
+ font-size: 40px;
+ display: flex;
+ align-items: center;
 }
