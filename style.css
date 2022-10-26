@@ -49,3 +49,11 @@
   flex-grow: 0;
 }
 
+.img {
+ margin-left: 100px;
+  padding: 1px;
+}
+
+.i, .m, .cat, .twofingers{
+  margin-left: 15px;
+}
