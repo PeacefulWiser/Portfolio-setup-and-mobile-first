@@ -1,6 +1,7 @@
 .flex-container {
   display: flex;
   flex-direction: column;
+ 
 }
 
 .logo {
@@ -47,3 +48,4 @@
   order: 0;
   flex-grow: 0;
 }
+
