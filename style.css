@@ -9,7 +9,11 @@
   display: flex;
   align-items: center;
   margin-left: 15px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
+
 
 .navicon {
   float: left;
@@ -34,4 +38,12 @@
   color: #344563;
   margin-left: 100px;
   margin-top: 10px;
+}
+
+.cap {
+  color: #7F8CFF;
+  margin-left: 100px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
