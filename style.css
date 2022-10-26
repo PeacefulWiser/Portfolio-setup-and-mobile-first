@@ -12,3 +12,22 @@
   width: 70px;
   margin-left: 400px;
 }
+
+.mariane {
+
+  margin-bottom: 10px;
+  margin-left: 100px;
+  font-size: 60px;
+  color: #172B4D;
+  display: flex;
+  align-items: center;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.text { 
+  color: #344563;
+  margin-left: 100px;
+  margin-top: 10px;
+}
