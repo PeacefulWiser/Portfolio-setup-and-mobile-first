@@ -1,14 +1,14 @@
 
 .logo {
-    float: left;
- width: 80px;
- display: flex;
- align-items: center;
- margin-left: 15px;
+  float: left;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
 }
-.navicon{
-    float: left;
-    width: 70px;
-    margin-left: 400px;
-   
+
+.navicon {
+  float: left;
+  width: 70px;
+  margin-left: 400px;
 }
