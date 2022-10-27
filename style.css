@@ -6,10 +6,10 @@ body {
   background-image: url("https://user-images.githubusercontent.com/66992901/198218680-01a4bf79-49e0-4ca5-b5a4-363c351466a5.png");
   background-repeat: no-repeat;
 }
+
 .flex-container {
   display: flex;
   flex-direction: column;
- 
 }
 
 .time {
@@ -37,7 +37,6 @@ body {
 }
 
 .nav i {
- 
   width: 40px;
   margin-left: 400px;
   color: black;
@@ -71,113 +70,51 @@ body {
 }
 
 .img {
-  
   color: grey;
   font-size: 24px;
-  }
+}
 
-  ul{
-    list-style-type: none;
-  }
+ul {
+  list-style-type: none;
+}
 
-  li{
-    float:left;
-  }
+li {
+  float: left;
+}
 
-  
-.img i{
+
+.img i {
   padding: 15px;
 }
 
-
-
-.design {
-  position: relative;
-}
-
-.rectangle4 {
-  position: absolute;
-  top: 100px;
-  left: 400px;
-}
-
-.ellipse1 {
-  position: absolute;
-  top: 125px;
-  left: 450px;
-}
-
-.ellipse11 {
-  position: absolute;
-  top: 125px;
-}
-
-.ellipse5 {
-  position: absolute;
-  left: 150px;
-  top: 150px;
-}
-
-.rectangle7 {
-  position: absolute;
-  top: 140px;
-  left: 150px;
-}
-
-.ellipse8 {
-  position: absolute;
-  left: 280px;
-  top: 110px;
-}
-
-.secdesign {
-  position: relative;
-}
-
-.ellipse4 {
-  position: absolute;
-  left: 300px;
-  top: 50px;
-}
-
-.ellipse13 {
-  position: absolute;
-  left: 430px;
-  top: 560px;
-}
-
-.ellipse12 {
-  position: absolute;
-  left: 440px;
-  top: 550px;
-}
-
-.ellipse15 {
-  position: absolute;
-  left: 140px;
-  top: 40px;
-}
-
-.ellipse14 {
-  position: absolute;
-  left: 60px;
-}
 a :visited {
   color: red;
 }
-a :hover{
+
+a :hover {
   color: greenyellow;
 }
-a :active{
+
+a :active {
   color: orange;
 }
-.button :hover {
-  color: palevioletred;
+
+button:hover {
+  color: rgb(241, 8, 86);
 }
-.button :disabled{
+
+button:disabled {
   color: maroon;
 }
 
-.button :active {
+button:active {
   color: rgb(209, 230, 23);
+}
+
+.button :visited {
+  color: mediumseagreen;
+}
+
+.button :hover {
+  color: pink;
 }
