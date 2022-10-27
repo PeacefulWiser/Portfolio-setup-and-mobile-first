@@ -5,37 +5,22 @@
 .flex-container {
   display: flex;
   flex-direction: column;
- 
 }
 
-.item1 {
-  background-color: aqua;
-}
 
-.item2 {
-  background-color:yellow;
-}
 
-.net {
-  width: 100px;
-  
-} 
-
-.time{
+.time {
   font-weight: bold;
   font-size: 15px;
-  
   padding: 20px;
 }
 
 .net {
- 
-   
-   margin-left: 300px;
+  margin-left: 300px;
+  width: 100px;
 }
 
 .logo {
- 
   width: 80px;
   display: flex;
   align-items: center;
@@ -45,7 +30,6 @@
   flex-grow: 0;
 }
 
-
 .navicon {
   float: left;
   width: 40px;
@@ -53,27 +37,26 @@
 }
 
 .mariane {
-margin-top: 210px;
+  margin-top: 210px;
   margin-bottom: 10px;
   margin-left: 100px;
   font-size: 60px;
-  color: #172B4D;
+  color: #172b4d;
   display: flex;
   align-items: center;
   flex: none;
   order: 0;
   flex-grow: 0;
- 
 }
 
-.text { 
+.text {
   color: #344563;
   margin-left: 100px;
   margin-top: 10px;
 }
 
 .cap {
-  color: #7F8CFF;
+  color: #7f8cff;
   margin-left: 100px;
   flex: none;
   order: 0;
@@ -81,94 +64,88 @@ margin-top: 210px;
 }
 
 .img {
- margin-left: 100px;
+  margin-left: 100px;
   padding: 1px;
 }
 
-.i, .m, .cat, .twofingers{
+.i,
+.m,
+.cat,
+.twofingers {
   margin-left: 15px;
 }
 
 .design {
-position: relative;
+  position: relative;
 }
 
 .rectangle4 {
- position: absolute;
- top: 100px;
- left: 400px;
-  
-  }
-  .ellipse1 {
-    position: absolute;
-    top: 125px;
-    left: 450px;
-     
-     }
+  position: absolute;
+  top: 100px;
+  left: 400px;
+}
 
-     .ellipse11 {
-      position: absolute;
-      top: 125px;
-      
-       
-       }
-   .ellipse14 {
-          position: absolute;
-         left: 200px;
-           
-           }
+.ellipse1 {
+  position: absolute;
+  top: 125px;
+  left: 450px;
+}
 
-           .ellipse5 {
-            position: absolute;
-           left: 150px;
-             top: 150px;
-             }
+.ellipse11 {
+  position: absolute;
+  top: 125px;
+}
 
-             .rectangle7 {
-              position: absolute;
-              top: 140px;
-               left: 150px;
-               }
 
-               .ellipse8 {
-                position: absolute;
-                left: 280px;
-                 top: 110px;
-                 }
 
-                 .secdesign{
-                  position: relative;
-                 }
+.ellipse5 {
+  position: absolute;
+  left: 150px;
+  top: 150px;
+}
 
-                 .ellipse4 {
-                  position: absolute;
-                  left: 300px;
-                  top: 50px;
-                 }
+.rectangle7 {
+  position: absolute;
+  top: 140px;
+  left: 150px;
+}
 
-                 .ellipse13{
-                  position: absolute;
-                  left: 430px;
-                  top: 560px;
-                 }
+.ellipse8 {
+  position: absolute;
+  left: 280px;
+  top: 110px;
+}
 
-                 .ellipse12{
-                  position: absolute;
-                  left: 440px;
-                  top: 550px;
-                 }
+.secdesign {
+  position: relative;
+}
 
-                 .ellipse15{
-                  position: absolute;
-                  left: 140px;
-                  top: 40px;
-                 }
+.ellipse4 {
+  position: absolute;
+  left: 300px;
+  top: 50px;
+}
 
-                 .ellipse14{
-                  position: absolute;
-                  left: 60px;
-                 }
+.ellipse13 {
+  position: absolute;
+  left: 430px;
+  top: 560px;
+}
 
-                 
+.ellipse12 {
+  position: absolute;
+  left: 440px;
+  top: 550px;
+}
 
-  
+.ellipse15 {
+  position: absolute;
+  left: 140px;
+  top: 40px;
+}
+
+.ellipse14 {
+  position: absolute;
+  left: 60px;
+}
+
