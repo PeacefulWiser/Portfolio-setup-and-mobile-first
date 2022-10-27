@@ -4,6 +4,7 @@
 
 body {
   background-image: url("https://user-images.githubusercontent.com/66992901/198218680-01a4bf79-49e0-4ca5-b5a4-363c351466a5.png");
+  background-repeat: no-repeat;
 }
 .flex-container {
   display: flex;
@@ -25,6 +26,7 @@ body {
 .logo {
   width: 80px;
   display: flex;
+  font-weight: 700;
   align-items: center;
   margin-left: 15px;
   flex: none;
@@ -67,7 +69,9 @@ body {
 
 .img {
   margin-left: 100px;
-  padding: 1px;
+  color: grey;
+  font-size: 24px;
+  
 }
 
 .i,
