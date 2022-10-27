@@ -46,7 +46,9 @@ body {
   margin-top: 100px;
   margin-bottom: 10px;
   margin-left: 70px;
-  font-size: 60px;
+  font-family: 'Poppins';
+  font-style:normal;
+  font-size: 40px;
   color: #172b4d;
   display: flex;
   align-items: center;
@@ -63,6 +65,8 @@ body {
 
 .cap {
   color: #7f8cff;
+  font-size: 16px;
+  font-family: 'Poppins';
   margin-left: 70px;
   flex: none;
   order: 0;
@@ -71,7 +75,9 @@ body {
 
 .img {
   color: grey;
-  font-size: 24px;
+  font-size: 18px;
+  margin-left: 22px;
+  margin-top: 1px;
 }
 
 ul {
@@ -83,7 +89,7 @@ li {
 }
 
 .img i {
-  padding: 15px;
+  padding: 10px;
 }
 
 a :visited {
