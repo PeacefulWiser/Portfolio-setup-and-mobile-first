@@ -1,10 +1,7 @@
-# 
-
 
 Project name: Portfolio-setup-and-mobile-first
 
-
-> Description of the project.
+Description of the project.
 
 For the first milestone in the process of creating your portfolio website, I will:
 
@@ -20,14 +17,6 @@ HTML and CSS
 VS Code
 
 Git and GitHub
-
-
-
-
-
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 create a repository and a HTML&CSS linters
@@ -54,8 +43,6 @@ npx stylelint "**/*.{css,scss}" --fix
 - GitHub: [@githubhandle](https://github.com/PeacefulWiser)
 - Twitter: [@twitterhandle](https://twitter.com/@BryanWagoki)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bryan-wagoki-25003b24a)
-
-
 
 ## 🤝 Contributing
 

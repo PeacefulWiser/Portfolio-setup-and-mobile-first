@@ -7,8 +7,6 @@
   flex-direction: column;
 }
 
-
-
 .time {
   font-weight: bold;
   font-size: 15px;
@@ -96,8 +94,6 @@
   top: 125px;
 }
 
-
-
 .ellipse5 {
   position: absolute;
   left: 150px;
@@ -148,4 +144,3 @@
   position: absolute;
   left: 60px;
 }
-
