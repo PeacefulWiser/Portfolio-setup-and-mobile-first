@@ -36,11 +36,11 @@ body {
   flex-grow: 0;
 }
 
-.navicon {
+.nav i {
  
   width: 40px;
   margin-left: 400px;
-  color: blue;
+  color: black;
 }
 
 .mariane {
@@ -81,12 +81,7 @@ body {
   padding: 10px;
 }
 
-.i,
-.m,
-.cat,
-.twofingers {
-  margin-left: 15px;
-}
+
 
 .design {
   position: relative;
@@ -158,4 +153,20 @@ body {
 .ellipse14 {
   position: absolute;
   left: 60px;
+}
+a :visited {
+  color: red;
+}
+a :hover{
+  color: greenyellow;
+}
+a :active{
+  color: orange;
+}
+.button:hover {
+  color: palevioletred;
+}
+
+.button:active {
+  color: blue;
 }
