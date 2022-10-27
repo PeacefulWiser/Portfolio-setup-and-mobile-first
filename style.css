@@ -163,10 +163,13 @@ a :hover{
 a :active{
   color: orange;
 }
-.button:hover {
+.button :hover {
   color: palevioletred;
 }
+.button :disabled{
+  color: maroon;
+}
 
-.button:active {
-  color: blue;
+.button :active {
+  color: rgb(209, 230, 23);
 }
