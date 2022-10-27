@@ -30,13 +30,14 @@ body {
   font-weight: 700;
   align-items: center;
   margin-left: 15px;
+  margin-top: 50px;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 
 .navicon {
-  float: left;
+ 
   width: 40px;
   margin-left: 400px;
   color: blue;
@@ -57,23 +58,27 @@ body {
 
 .text {
   color: #344563;
-  margin-left: 100px;
+  margin-left: 70px;
   margin-top: 10px;
 }
 
 .cap {
   color: #7f8cff;
-  margin-left: 100px;
+  margin-left: 70px;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 
 .img {
-  margin-left: 100px;
+  margin-left: 70px;
   color: grey;
   font-size: 24px;
   
+}
+
+.img i{
+  padding: 10px;
 }
 
 .i,
