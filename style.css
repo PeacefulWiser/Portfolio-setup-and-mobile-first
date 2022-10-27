@@ -76,7 +76,6 @@ body {
 }
 
 .img {
-  color: grey;
   font-size: 18px;
   margin-left: 22px;
   margin-top: 1px;
@@ -88,9 +87,10 @@ ul {
 
 li {
   float: left;
-}
+  }
 
 .img i {
+  color: grey;
   padding: 10px;
 }
 
