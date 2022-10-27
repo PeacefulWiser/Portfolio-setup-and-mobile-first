@@ -25,8 +25,13 @@ body {
 }
 
 .logo {
-  width: 80px;
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins';
+  font-style:normal;
   display: flex;
+  text-align: center;
+  font-size: 18px;
   font-weight: 700;
   align-items: center;
   margin-left: 15px;
@@ -35,6 +40,7 @@ body {
   order: 0;
   flex-grow: 0;
 }
+
 
 .nav i {
   width: 40px;
