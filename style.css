@@ -2,9 +2,13 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url("https://user-images.githubusercontent.com/66992901/198218680-01a4bf79-49e0-4ca5-b5a4-363c351466a5.png");
+}
 .flex-container {
   display: flex;
   flex-direction: column;
+ 
 }
 
 .time {
