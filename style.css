@@ -27,7 +27,7 @@ body {
 }
 
 .header i {
-  margin-left: 300px;
+  margin-left: 200px;
   width: 24px;
   color: blue;
 }
@@ -53,9 +53,12 @@ body {
   margin-left: 400px;
   color: black;
 }
+.button{
+  margin-left: 70px;
+}
 
 .mariane {
-  margin-top: 100px;
+  margin-top: 80px;
   margin-bottom: 10px;
   margin-left: 70px;
   font-family: 'Poppins';
