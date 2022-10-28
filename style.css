@@ -27,34 +27,24 @@ body {
 }
 
 .header i {
-  margin-left: 200px;
+  margin-left: 100px;
   width: 24px;
   color: blue;
 }
 
-.logo {
-  width: 76px;
-  height: 20px;
-  font-style: normal;
-  display: flex;
-  text-align: center;
+.header a {
+  font-weight: bold;
+  color: #6070FF;
+  font-family: 'Poppins';
   font-size: 18px;
-  font-weight: 700;
-  align-items: center;
-  margin-left: 15px;
-  margin-top: 50px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+  text-decoration: none;
+  margin-left: 70px;
 }
 
 .nav i {
   width: 40px;
   margin-left: 400px;
   color: black;
-}
-.button{
-  margin-left: 70px;
 }
 
 .mariane {
@@ -139,7 +129,7 @@ button:active {
 }
 
 .button :visited {
-  color: mediumseagreen;
+  color: #6070FF;;
 }
 
 .button :hover {
